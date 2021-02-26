@@ -1,4 +1,4 @@
-<img src="https://github.com/JJeferson/JJeferson/blob/main/11.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/JJeferson/JJeferson/blob/main/22.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 <p align="left">
