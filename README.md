@@ -3,7 +3,7 @@ Olá me chamo Jeferson dos Santos.
 <p>
 <p align="left">  
 Minhas stacks principais são: </br>
-*Java BackEnd/Spring </br>
+*<strong>Java BackEnd/Spring </strong></br>
 *Android Nativo(Kotlin e Java) </br>
 *Bancos de dados relacionais (Postgres, MySQL, Firebird e Oracle) & Relatórios com acessos diretos a banco </p>
   formatados com PHP, Excel, Jasper, Report Builder. </br>
