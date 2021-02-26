@@ -1,4 +1,6 @@
+<p align="left">
 Olá me chamo Jeferson dos Santos.
+<p>
 Minhas stacks principais são:
 *Java BackEnd/Spring
 *Android Nativo(Kotlin e Java)
