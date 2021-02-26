@@ -1,5 +1,5 @@
 <p align="left">
-Olá me chamo Jeferson dos Santos.
+Olá me chamo <strong>Jeferson dos Santos</strong>.
 <p>
 <p align="left">  
 Minhas stacks principais são: </br>
