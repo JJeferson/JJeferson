@@ -8,9 +8,7 @@ Olá me chamo <strong>Jeferson dos Santos</strong>.
 Minhas stacks principais são: </br>
 *<strong>Java BackEnd/Spring </strong></br>
 *Android Nativo(<strong>Kotlin</strong> e <strong>Java</strong>) </br>
-*Bancos de dados relacionais (<strong>Postgres</strong>, <strong>MySQL</strong>, <strong>Firebird</strong> e <strong>Oracle</strong>) & Relatórios com acessos diretos a banco 
-  formatados com <strong>PHP & HTML5 </strong>,<strong> Excel</strong>, <strong>Jasper</strong>, <strong>Report Builder</strong>. </br>
-*BackEnd com <strong>Node.js</strong> e <strong>PHP</strong>. </br>
+*Bancos de dados relacionais e não relacionais. </br>
 </p>
 <p align="left">  
 Sou um profissionao esforçado e completo. </br>
