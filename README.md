@@ -8,7 +8,7 @@ Olá me chamo <strong>Jeferson dos Santos</strong>.
 Minhas stacks principais são: </br>
 *<strong>Java BackEnd/Spring </strong></br>
 *Android Nativo(<strong>Kotlin</strong> e <strong>Java</strong>) </br>
-*Bancos de dados relacionais e não relacionais. </br>
+*Bancos de dados relacionais e não relacionais(<strong>DBA & DBE</strong>)-Database Administrator/Database Enginner. </br>
 </p>
 <p align="left">  
 Sou um profissionao esforçado e completo. </br>
