@@ -12,9 +12,9 @@ Minhas stacks principais são: </br>
 Database Administrator/Database Enginner. </br>
 </p>
 <p align="left">  
-Sou um profissionao esforçado e completo. </br>
+Sou um profissional esforçado e completo. </br>
 Já passei por quase diversos setores da TI, implantação  e treinamento de software e hardware, datacenters e adm em servidores linux e microsoft. </br>
-Hoje desenvolvo BackEnd com Java/Spring. </br>
+Hoje desenvolvo BackEnd e MicrosServiços com Java/Spring. </br>
 </p>
 
 <p align="left">
