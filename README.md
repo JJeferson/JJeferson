@@ -6,7 +6,7 @@ Olá me chamo <strong>Jeferson dos Santos</strong>.
 <p>
 <p align="left">  
 Minhas stacks principais são: </br>
-*<strong>Java BackEnd/Spring </strong></br>
+*<strong>Java e Kotlin BackEnd/Spring </strong></br>
 <strong> CleanCode </strong> | <strong> SOLID </strong> |<strong> TDD & DDD </strong> |<strong> JUnit & Mockito </strong></br>
 *Bancos de dados relacionais e não relacionais(<strong>DBA & DBE</strong>)</br>
 Database Administrator/Database Enginner. </br>
