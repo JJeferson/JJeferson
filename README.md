@@ -2,7 +2,7 @@
 
 
 <p align="left">
-hello my name is <strong>Jeferson dos Santos</strong>.
+Hello my name is <strong>Jeferson dos Santos</strong>.
 <p>
 <p align="left">  
 I am an IT professional with more than 15 years of experience.
