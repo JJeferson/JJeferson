@@ -2,26 +2,24 @@
 
 
 <p align="left">
-Olá me chamo <strong>Jeferson dos Santos</strong>.
+hello my name is <strong>Jeferson dos Santos</strong>.
 <p>
 <p align="left">  
-Minhas stacks principais são: </br>
-*<strong>Java e Kotlin BackEnd/Spring </strong></br>
-<strong> CleanCode </strong> | <strong> SOLID </strong> |<strong> TDD & DDD </strong> |<strong> JUnit & Mockito </strong></br>
-*Bancos de dados relacionais e não relacionais(<strong>DBA & DBE</strong>)</br>
-Database Administrator/Database Enginner. </br>
-</p>
-<p align="left">  
-Sou um profissional esforçado e completo. </br>
-Já passei por quase diversos setores da TI, implantação  e treinamento de software e hardware, datacenters e adm em servidores linux e microsoft. </br>
-Hoje desenvolvo BackEnd e MicrosServiços com Java/Spring. </br>
-</p>
+I am an IT professional with more than 15 years of experience.
+Today acting as a specialist software architect/backend developer.
 
+<strong>Languages:</strong> Java, Kotlin, Python, TypeScript, GoLang. </br>
+<strong>Technologies: </strong> Android, AWS Lambda, AWS GLue, Python PANDAS, PySpark, Spring Framework, JetPack, Android </br>
+LifeCycle, NodeJS for BackEnd, PL/SQL (Oracle|PostgreSQL), Terraform/Cloudformation, Oracle, MySQL, Firebird, </br>
+PostgreSQL, MongoDB, SQLite, Dynamo, Redis, TDD, DDD, BDD, MVC, MVVM, Hexagonal Architecture, Jest, </br>
+PyTest, Junit/Mockito, Kafka, RabbitMQ, SQS/SNS, API GT, Observability,Technical Leadership(TechLead), </br>
+Technical Reference, Docker, Podman, Rest/RestFull, SOAP, Microsservices. </br>
+</p>
+  Here contacts: </br>
+  WhatsApp/Telegram: 51-999771985 |
+  <a href="https://docs.google.com/document/d/e/2PACX-1vT45O_KBqy6elVMKhgueYvhAF5ttmUGsqPgLqlB22H8w2Vaqe54NPW65TkVAmqRdXd3YW8jJLMbiHgi/pub">Resume | </a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vT2IL2ASTO_5n3tpfEXAJNs4G76QLzNCmxiWBUo6VFL9gUz34Aemv604oDCE45dEfpyMlomi7AvhZXV/pub">Portfólio</a> 
 <p align="left">
-  <a href="https://www.instagram.com/bettercalljeffer/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-
-  <a href="https://www.linkedin.com/in/jeferson-dos-santos-57262720/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
+  <a href="https://www.linkedin.com/in/jeferson-dos-santos-57262720/" alt="Linkedin">
 </p>
